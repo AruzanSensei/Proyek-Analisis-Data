@@ -1,4 +1,4 @@
-# proyek-analisis-data
+# Proyek-Analisis-Data
  
 ## Setup environment
 ```
