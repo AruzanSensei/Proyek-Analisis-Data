@@ -13,5 +13,4 @@ streamlit run dashboard.py
 ```
 
 ## Tautan dashboard
-[dashboard streamlit...](https://aruzansensei-proyek-akhir.streamlit.app/)
-
+[Dashboard - Aqi Quality Index](https://aruzansensei-proyek-akhir.streamlit.app/)
