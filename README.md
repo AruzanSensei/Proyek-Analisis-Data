@@ -11,3 +11,8 @@ pip install streamlit pandas scipy matplotlib seaborn jupyter babel numpy
 ```
 streamlit run dashboard.py
 ```
+
+## Tautan dashboard
+```
+https://aruzansensei-proyek-akhir.streamlit.app/
+```
