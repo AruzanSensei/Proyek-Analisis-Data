@@ -2,6 +2,7 @@ import pandas as pd
 import seaborn as sns
 import streamlit as st
 import matplotlib.pyplot as plt
+from babel.numbers import format_currency
 
 # Mengatur style Seaborn
 sns.set(style='dark')
