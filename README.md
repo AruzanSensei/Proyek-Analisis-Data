@@ -13,5 +13,5 @@ streamlit run dashboard.py
 ```
 
 ## Tautan dashboard
-[https://aruzansensei-proyek-akhir.streamlit.app/](https://aruzansensei-proyek-akhir.streamlit.app/)
+[dashboard streamlit...](https://aruzansensei-proyek-akhir.streamlit.app/)
 
