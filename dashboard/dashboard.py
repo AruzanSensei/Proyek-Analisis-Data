@@ -8,7 +8,10 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 # Set streamlit option
-st.set_option('deprecation.showPyplotGlobalUse', False)
+fig, ax = plt.subplots(figsize=(20, 10))
+sns.barplot(y="customer_count", x="season", data=byseason_df.sort_values(by="customer_count", ascending=False), palette=colors1, ax=ax)
+st.pyplot(fig)
+
 
 # Load the dataset
 try:
